@@ -5,7 +5,7 @@ public class bbb {
     private int end;
     private double avg;
     public bbb(int e){
-        end=0;
+        end=e;
     }
     public double bbb(){
         for(int i=1;i<=end;i++)
